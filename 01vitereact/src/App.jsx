@@ -1,3 +1,4 @@
+import Car from "./Newcomp"
 
 
 
@@ -5,7 +6,11 @@ function App() {
 
 
   return (
-    <h1>Sanyog, hello from vite</h1>
+    <>
+    <Car/>
+      <h1>Sanyog, hello from vite</h1>
+    </>
+  
   )
 }
 

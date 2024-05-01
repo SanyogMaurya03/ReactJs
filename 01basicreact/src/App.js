@@ -1,9 +1,14 @@
+import Car from "./Newcomp";
 
 
 
 function App() {
   return (
-    <h1>Sanyog, hii</h1>
+    <>
+    <Car/>
+      <h1>Sanyog, hii</h1>
+    </>
+   
   );
 }
 
